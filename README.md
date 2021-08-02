@@ -1,4 +1,6 @@
 # VS-Castlevania-TopGun-Daughterboard
+https://github.com/Golden-Potato/VS-Castlevania-TopGun-Daughterboard
+
 KiCad PCB files to create a reproduction VS Castlevania / VS Topgun daughterboard.  Have it made by your preferred PCB fab. I use http://aisler.net
 
 This design has one minor improvement to avoid bus conflicts that were present on the original Konami design.
