@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VS_Top_Gun_Castlevania-rescue")(type "KiCad")(uri "${KIPRJMOD}/VS_Top_Gun_Castlevania-rescue.kicad_sym")(options "")(descr ""))
+)
